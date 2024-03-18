@@ -1,0 +1,53 @@
+.logoRedizz {
+  background-image: url("../../assets/images//ilustra.png");
+  max-height: 100% !important;
+  height: 100% !important;
+}
+
+.login-container {
+  height: 100vh !important;
+
+  width: 100%;
+}
+
+.loginContainerMain {
+  padding: 0px !important;
+  margin: 0px !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  height: 100% !important;
+  max-height: 100% !important;
+  margin-top: 12px !important;
+}
+
+.box {
+  width: 250px;
+  height: 150px;
+  border-radius: 10px;
+  margin: 35px;
+}
+
+.logoImg {
+  width: 200px;
+  height: 100px;
+}
+
+.logoRedizzImg {
+  width: 150px;
+  height: 150px;
+}
+
+.formBox {
+  display: grid;
+  place-items: center;
+}
+
+.boxGrid {
+  display: flex;
+  padding: 15px;
+  border-radius: 15px;
+  justify-content: center;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+}

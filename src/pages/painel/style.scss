@@ -1,0 +1,10 @@
+.card-base {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 15%;
+  width: 70%;
+  background-color: "white" !important;
+  row-gap: 15px;
+}

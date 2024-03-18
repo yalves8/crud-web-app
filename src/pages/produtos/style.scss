@@ -1,0 +1,27 @@
+.formFilter {
+  margin-bottom: 18px;
+  display: grid;
+  place-content: space-around space-between !important;
+  grid-template-columns: 40% 10% !important;
+  align-items: baseline !important;
+}
+
+.row-filter {
+  display: grid !important;
+  grid-template-columns: 55% 50% !important;
+}
+
+.formCadastro {
+  display: grid !important;
+  place-content: space-around space-between !important;
+  grid-template-columns: repeat(2, 40%) !important;
+  row-gap: 10px;
+  align-items: baseline !important;
+}
+
+.button-group-cadastro {
+  display: flex !important;
+  place-content: end !important;
+  margin-top: 20px;
+  width: 680px !important;
+}
